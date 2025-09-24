@@ -1,1 +1,3 @@
 # El-sistema-semi-spot
+En la mayoría de las réflex la lectura expo simétrica da más importancia a la zona central del campo encuadrado, y hace menos caso de la luminosidad a medida que se aleja hacia la periferia de ese campo. Esta característica puede ser más o menos acentuada, según los modelos de cámara, y su denominación también varía (semi spot, lectura media con compensación en el centro, con predominio central, etc.): de ahí la necesidad antes señalada de que conozcamos bien nuestro exposímetro.
+Este sistema de medida reduce mucho la influencia de posibles elementos situados en los bordes del encuadre, que podrían distorsionar la lectura expo simétrica (cielo claro, fuertes sombras, luces, reflejos, etc.).
